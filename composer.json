@@ -1,0 +1,19 @@
+{
+  "name": "jmucak/wp-form-pack",
+  "description": "Form handling",
+  "require": {
+    "php": ">=8.0"
+  },
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Josip Mucak"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "jmucak\\wpFormPack\\": "src"
+    }
+  }
+}
